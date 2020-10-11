@@ -8,8 +8,8 @@
 
 ### Technologies
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"/>
-<img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html.svg"/>
-<img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css.svg"/>
+<img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg"/>
+<img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg"/>
