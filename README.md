@@ -13,6 +13,7 @@
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/svelte.svg"/>
+<img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg"/>
@@ -23,7 +24,6 @@
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg"/>
-<img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg"/>
