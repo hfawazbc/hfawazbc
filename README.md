@@ -1,4 +1,4 @@
-## Hi, my name is Hussein 👋
+# Hi, my name is Hussein 👋
 
 ### I am a 4th year business and computing science student at Simon Fraser University
 - 🔭 I am currently developing a social network application
@@ -6,7 +6,7 @@
 - 👯 Goals: Contribute to open source projects starting 2021
 - ⚡ Fun fact: I am a huge hockey fan - Go Canucks Go!
 
-### Languages and Frameworks
+## Languages and Frameworks
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
@@ -20,7 +20,7 @@
 
 <br/>
 
-### Tools
+## Tools
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg"/>
@@ -34,7 +34,7 @@
 
 <br/>
 
-### Connect
+## Connect
 [<img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 
