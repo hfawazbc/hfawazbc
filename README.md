@@ -1,4 +1,4 @@
-### Hi, my name is Hussein 👋
+## Hi, my name is Hussein 👋
 
 ### I am a 4th year business and computing science student at Simon Fraser University
 - 🔭 I am currently developing a social network application
