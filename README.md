@@ -17,6 +17,7 @@
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/svelte.svg"/>
+<img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg"/>
 
 <br/>
 
