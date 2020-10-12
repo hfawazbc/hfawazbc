@@ -1,6 +1,6 @@
 # Hi, my name is Hussein 👋
 
-### I am a 4th year business and computing science student at Simon Fraser University
+## I am a 4th year business and computing science student at Simon Fraser University
 - 🔭 I am currently developing a social network application
 - 🌱 I am currently learning Svelte/Sapper
 - 👯 Goals: Contribute to open source projects starting 2021
