@@ -26,7 +26,7 @@
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" title="Figma"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" title="MongoDB"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" title="Firebase"/>
-<img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg"/ title="GraphQL">
+<img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" title="GraphQL"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" title="Postman"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/heroku.svg" title="Heroku"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netlify.svg" title="Netlify"/>
@@ -40,5 +40,5 @@
 [<img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 
-[linkedin]: https://www.linkedin.com/in/hfawazbc/
-[twitter]: https://twitter.com/hfawazbc
+[linkedin]: https://www.linkedin.com/in/hfawazbc/ "linkedin.com/in/hfawazbc"
+[twitter]: https://twitter.com/hfawazbc "twitter.com/hfawazbc"
