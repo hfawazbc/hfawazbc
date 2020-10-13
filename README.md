@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I am a huge hockey fan - Go Canucks Go!
 
 ## Languages and Frameworks
-[<img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg"/> "VS Code"]
+<img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" title="VS Code"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/>
