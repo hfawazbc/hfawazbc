@@ -38,7 +38,5 @@
 
 ## Connect
 [<img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 
 [linkedin]: https://www.linkedin.com/in/hfawazbc/ "linkedin.com/in/hfawazbc"
-[twitter]: https://twitter.com/hfawazbc "twitter.com/hfawazbc"
