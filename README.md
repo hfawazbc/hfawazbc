@@ -24,6 +24,7 @@
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" title="VS Code"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" title="Git"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" title="Figma"/>
+<img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" title="PostgreSQL"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" title="MongoDB"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" title="Firebase"/>
 <img align="left" alt="" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" title="GraphQL"/>
