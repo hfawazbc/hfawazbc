@@ -1,7 +1,7 @@
 # Hi, my name is Hussein 👋
 
 ## I am a 4th year business and computing science student at Simon Fraser University
-- 🌱 I am currently learning Svelte/Sapper
+- 🌱 I am currently learning Java and DevOps technologies Jenkins, Docker, and Kubernetes
 - 👯 Goals: Contribute to open source projects starting 2021
 - ⚡ Fun fact: I am a huge hockey fan - Go Canucks Go!
 
